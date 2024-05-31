@@ -27,18 +27,18 @@ TARGET_PRICE = 1599  # Set your desired price threshold
 
 2. To create an app password for your Gmail account, follow these steps:
 
-Log into your Gmail account
-Click on the "Security" tab on the left
-Find the "How you sign in to Google" area
-Click on "2-Step Verification" (set it up if you haven't already)
-Once you've entered your password and set up 2-Step Verification, scroll to the bottom of the page
-You'll see the "App passwords" section
-Click on the little arrow/chevron ('>') to be taken to the app passwords page
-In the "Select app" drop-down box, select "Mail"
-In the "Select device" drop-down box, select your computer type (Mac, Windows, etc.)
-Click "Generate"
-Copy the generated password immediately (you'll only see it once)
-Paste the password into the SENDER_PASSWORD variable in the price_tracker.py file
+1. Log into your Gmail account
+2. Click on the "Security" tab on the left
+3. Find the "How you sign in to Google" area
+4. Click on "2-Step Verification" (set it up if you haven't already)
+5.Once you've entered your password and set up 2-Step Verification, scroll to the bottom of the page
+6. You'll see the "App passwords" section
+7. Click on the little arrow/chevron ('>') to be taken to the app passwords page
+8. In the "Select app" drop-down box, select "Mail"
+9. In the "Select device" drop-down box, select your computer type (Mac, Windows, etc.)
+10. Click "Generate"
+11. Copy the generated password immediately (you'll only see it once)
+12. Paste the password into the SENDER_PASSWORD variable in the price_tracker.py file
 
 Usage
 
